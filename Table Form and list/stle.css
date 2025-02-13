@@ -1,0 +1,36 @@
+img{
+    height:15px;
+    width:20px;
+}
+
+.a{
+    border: 1px solid black;
+    width: 40%;
+}
+.b{
+    background-color: rgb(73, 124, 156);
+    color: white;
+}
+.c{
+    background-color: rgb(132, 190, 226);
+}
+.d{
+    background-color:rgb(181, 214, 235);
+}
+.e{
+    background-color: rgb(113, 190, 226);
+}
+.f{
+    background-color: rgb(181, 214, 235);
+}
+.g{
+    width: 25%;
+}
+.h{
+    background-color: green;
+    color: white;
+    border-radius: 15%; 
+    cursor: pointer;
+    border: 2px solid rgb(4, 170, 109); 
+    text-align: right;
+} 

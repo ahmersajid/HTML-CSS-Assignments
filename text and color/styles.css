@@ -1,0 +1,24 @@
+.top{
+    background-color: #008000;
+    color:#ffffff;
+    margin: 0 auto;
+    padding: auto;
+    text-align: center;
+}
+.mid{
+    background-color: #ffffff;
+    padding: 0 auto;
+    margin: 0 auto;
+}
+.last{
+    background-color:#111010 ;
+    padding: 0 auto;
+    margin: 0 auto;
+    text-align: center;
+}
+.a{
+    color: #ffffff;
+}
+.b{
+    color: #008000;
+}
